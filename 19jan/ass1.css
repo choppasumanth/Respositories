@@ -1,0 +1,88 @@
+*{
+    box-sizing: border-box;
+}
+#main{
+    border: 1px solid yellow;
+    background-color: grey;
+    width: 550px;
+    height: 740px;
+    margin: auto;
+}
+#mainmarvel{
+    text-align: center;
+    padding-top: 20px;
+    font-size: 40px;
+    font-family: Arial Rounded MT;
+    font-weight: bold;
+    color:gold;
+}
+
+#elements{
+    border: 1px solid hidden;
+    background-color:gray ;
+    width: 470px;
+    height: 540px;
+    margin-top: 70px;
+    margin-left: 40px;
+    border-radius: 20px;
+}
+#heros{
+    border: 1px solid transparent;
+    border-radius: 60%;
+    width: 40%;
+    height: 35%;
+    margin-left: 130px;
+}
+#mainpic{
+    border: 1px solid transparent;
+    border-radius: 50%;
+    width: 195px;
+    height: 200px;
+    margin-left: -1px;
+    margin-top: -40%;
+}
+#about{
+    font-size: 25px;
+    margin-top: -15%;
+    margin-left: -5px;
+    text-align: center;
+    color: darkorange;
+}
+#work{
+    font-size: 25px;
+    margin-top: -5px;
+    margin-left: -5px;
+    text-align: center;
+    font-family: Arial Rounded MT;
+
+}
+#information{
+    font-size: 15px;
+    width: 300px;
+    margin-left: 80px;
+    text-align: center;
+    color:aliceblue;
+}
+#prevBtn{
+    border: 1px solid transparent;
+    background-color: transparent;
+    margin-left: 38%;
+    width: 30px;
+    height: 30px;
+}
+#nextBtn{
+    border: 1px solid transparent;
+    background-color: transparent;
+    margin-left: 8%;
+    width: 30px;
+    height: 30px;
+}
+#randomBtn{
+    margin-left: 180px;
+    margin-top: 2%;
+    border: 1px solid grey;
+    background-color: yellow;
+    border-radius: 25px;
+    width: 95px;
+    height: 35px;
+}
