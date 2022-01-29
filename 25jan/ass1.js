@@ -24,7 +24,7 @@ function submitForm(e) {
     if (emailValue === "") {
       setError(element, "Email cannot be empty");
     } else if (!isEmail(emailValue)) {
-      setError(element, "This is not a valid email");
+      setError(element, "Enter Valid Email");
     } else {
       onSuccess(element);
     }
