@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    position: relative;
+    top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(0.25turn,grey,pink,yellow);
+    
+}
+.todo-item,
+.input-form {
+  display: flex;
+  justify-content: space-between;
+}
+.input-form input{
+    padding: 7px 50px;
+    margin-right: 5px;
+    background-color: burlywood;
+    color: white;
+    border-radius: 25px 25px;
+}
+.todo-item {
+    margin: 10px 0;
+  }
+#button{
+    padding: 6px 5px;
+    border-radius: 50px 50px;
+}
