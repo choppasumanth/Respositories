@@ -1,0 +1,13 @@
+table{
+    border: 3px solid black;
+}
+tr{
+    background:linear-gradient(0.25turn,yellow,grey,pink);
+}
+td {
+    padding: 10px;
+    font-size: 15px;
+    align-items: center;
+  }
+
+  
