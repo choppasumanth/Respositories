@@ -25,10 +25,6 @@ let tableCreator=(arr)=>{
     
 
 }
-
-
-
-
 let searchField=document.querySelector('.searchContainer input')
 searchField.addEventListener('input',()=>{
     let query=searchField.value
