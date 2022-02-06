@@ -1,0 +1,17 @@
+*{
+    background: yellow
+}
+main{
+   text-align: center;
+}
+#dec{
+    background: black;
+    color: white;
+}
+#inc{
+    background: black;
+    color: white;
+}
+#count{
+    color: black;
+}
